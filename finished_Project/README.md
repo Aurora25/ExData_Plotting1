@@ -27,6 +27,7 @@ The "plot#.R" Scripts produce the png-files<br />
 * plot4.png
 
 respectively. <br /> 
+In this README they will be referred to by "plot#.R".
 If your working directory in R is set to the one, which contains all the "plot#.R"-files, use the 
 
 ```{r}
